@@ -17,12 +17,11 @@
             "src": "/icons/maskable_icon.png",
             "type": "image/png",
             "sizes": "274x274",
-            "purpose": "maskable"
         }
     ],
     "id": "randomId",
     "background_color": "#000",
     "scope": "/",
     "theme_color": "#ff9900",
-    "description": "Ginko busted buses forecast information",
+    "description": "Ginko busted buses forecast information"
 }
