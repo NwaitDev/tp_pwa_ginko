@@ -2,26 +2,25 @@
     "short_name": "MyGinko",
     "name": "Ginko Busted Buster Bus",
     "display": "fullscreen",
-    "start_url": "https://nwaitdev.github.io/tp_pwa_ginko/",
+    "start_url": "index.html",
     "icons": [{
-            "src": "/icons/icon-512.png",
+            "src": "icons/icon-512.png",
             "type": "image/png",
             "sizes": "512x512"
         },
         {
-            "src": "/icons/icon-192.png",
+            "src": "icons/icon-192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/icons/maskable_icon.png",
+            "src": "icons/maskable_icon.png",
             "type": "image/png",
             "sizes": "274x274"
         }
     ],
     "id": "randomId",
     "background_color": "#000",
-    "scope": "/",
     "theme_color": "#ff9900",
     "description": "Ginko busted buses forecast information"
 }
