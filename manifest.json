@@ -12,6 +12,10 @@
             "src": "/icons/icon-192.png",
             "type": "image/png",
             "sizes": "192x192"
+        } {
+            "src": "/icons/maskable_icon.png",
+            "type": "image/png",
+            "sizes": "274x274"
         }
     ],
     "id": "randomId",
