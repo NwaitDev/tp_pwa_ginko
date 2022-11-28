@@ -2,7 +2,8 @@
     "short_name": "MyGinko",
     "name": "Ginko Busted Buster Bus",
     "display": "fullscreen",
-    "start_url": "https://nwaitdev.github.io/tp_pwa_ginko/",
+    "start_url": "127.0.0.1:5500",
+    //"start_url": "https://nwaitdev.github.io/tp_pwa_ginko/",
     "icons": [{
             "src": "/icons/icon-512.png",
             "type": "image/png",
@@ -18,5 +19,5 @@
     "background_color": "#000",
     "scope": "/",
     "theme_color": "#ff9900",
-    "description": "Ginko busted buses forecast information",
+    "description": "Ginko busted buses forecast information"
 }
